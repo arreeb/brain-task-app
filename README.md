@@ -6,7 +6,7 @@ Architecture & Pipeline Explanation :
 The pipeline follows the below Continuous Integration and Continuous Deployment process:
 
 Source Code Management :
-The application code, Dockerfile, and Kubernetes manifest file (manifest.yaml) are stored in a GitHub repository.
+The application code, Dockerfile, and Kubernetes manifest file are stored in a GitHub repository.
 
 Continuous Integration (AWS CodeBuild) :
 Whenever changes are pushed to the main branch, AWS CodePipeline automatically triggers AWS CodeBuild.
