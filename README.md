@@ -29,7 +29,7 @@ Monitoring (Amazon CloudWatch) :
 AWS CloudWatch is used for monitoring and logging.
 Execution logs from CodeBuild, deployment logs from the EKS Control Plane, and application pod logs are tracked and viewable in AWS CloudWatch.
 
-Setup Instructions
+Setup Instructions :
 To replicate this environment, the following infrastructure was provisioned via the AWS Console:
 
 IAM Roles:
